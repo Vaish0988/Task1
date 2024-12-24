@@ -1,0 +1,104 @@
+/* Header Styles */
+header {
+    background: #333;
+    color: white;
+    padding: 15px 0;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    margin: 0 20px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+/* Main Content Styles */
+main {
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h1, section h2 {
+    color: #333;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+/* Footer Styles */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+/* Main Content Styles */
+main {
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h1, section h2 {
+    color: #333;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+/* Footer Styles */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
